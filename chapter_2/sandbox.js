@@ -19,3 +19,19 @@ let fullName = firstName + " " + lastName;
 
 console.log(fullName);
 
+//geting characters
+
+console.log(fullName[2]);
+
+//string.length
+
+console.log(fullName.length);
+
+//string method
+
+console.log(fullName.toUpperCase());
+
+let result = fullName.toLowerCase();
+
+console.log(result, fullName);
+
