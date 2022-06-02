@@ -1,3 +1,5 @@
-let ninjas = ['giovanni', 'kurniawan', 'nama'];
+let ninjas = ['shaun', 'ryu', 'chun-li'];
 
+ninjas[1] = 'ken';
 console.log(ninjas);
+
