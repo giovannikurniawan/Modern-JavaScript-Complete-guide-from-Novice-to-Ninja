@@ -2,7 +2,7 @@
 
 // console.log(angka + 1);
 
-let angka = '200';
+let angka = '400';
 
 angka = Number(angka); // mengkonversi string to number
 
